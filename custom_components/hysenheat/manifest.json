@@ -1,0 +1,13 @@
+{
+  "domain": "hysenheat",
+  "name": "Hysen Heating",
+  "version": "1.0.01",
+  "documentation": "https://github.com/uspass/hysenheating/blob/master/README.md",
+  "issue_tracker": "https://github.com/uspass/hysenheating/issues",
+  "iot_class": "local_polling",
+  "requirements": ["hysen==0.4.12"],
+  "dependencies": [],
+  "codeowners": ["@uspass"],
+  "config_flow": true,
+  "integration_type": "device"
+}
