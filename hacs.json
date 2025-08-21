@@ -1,0 +1,7 @@
+{
+  "name": "Hysen Heating",
+  "content_in_root": false,
+  "domain": "hysenheat",
+  "documentation": "https://github.com/uspass/hysen-heating",
+  "render_readme": true
+}
